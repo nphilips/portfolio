@@ -346,7 +346,7 @@ h3{
     
     .nav {
         flex-direction: row;
-        width: 105vw;
+        width: 100vw;
         height: 150px;
         top: 0;
         transition: top 300ms linear ;
